@@ -35,7 +35,7 @@ Next, analyze the “Infrastructure List” below to find out which infrastructu
 ![image](https://github.com/user-attachments/assets/5e18d942-2648-4860-9f3c-76672d515119)
 
 
-<a href="https://github.com/Matteobarcelona/Mastercard-Project/blob/main/phishing%20emails.pdf" target="_blank">Phishing Emails Practice</a>
+<a href="https://github.com/Matteobarcelona/AIG-Project/blob/main/advisory%20email.pdf" target="_blank">Advisory email to team mates who can be affected by Log4j vulnerabilities. </a>
 
 
 
@@ -43,6 +43,8 @@ Next, analyze the “Infrastructure List” below to find out which infrastructu
 
 What ‘bruteforcing’ involves and how to respond to a ransomware virus using Python:
 * Write a Python script to bruteforce the decryption key of the encrypted file, to avoid paying a ransom
+
+In this task, I had to write a Python script to bruteforce the decryption key of the encrypted file.
 
 ![image](https://github.com/user-attachments/assets/b3ffa56b-151d-42e7-9205-0271c04ff832)
 
