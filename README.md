@@ -3,14 +3,13 @@ AIG Shields Up Cybersecurity
 
 ## Objective
 
-Mastercard Cybersecurity virtual experience program on Forage - September 2024
+AIG Shields Up: Cybersecurity virtual experience program on Forage - September 2024
 
- * Completed a job simulation where I served as an analyst on Mastercard’s
-   Security Awareness Team 
- * Helped identify and report security threats such as phishing 
- * Analyzed and identified which areas of the business needed more robust
-   security training and implemented training courses and procedures for those
-   teams
+
+ * Completed a cybersecurity threat analysis simulation for the Cyber Defense Unit, staying updated on CISA publications.
+ * Researched and understood reported vulnerabilities, showcasing analytical skills in cybersecurity.
+ * Drafted a clear and concise email to guide teams on vulnerability remediation.
+ * Utilized Python skills to write a script for ethical hacking, avoiding ransom payments by bruteforcing decryption keys.
 
 ## Task 1 Responding to a zero-day vulnerability:
 
@@ -45,13 +44,7 @@ What ‘bruteforcing’ involves and how to respond to a ransomware virus using 
 * Write a Python script to bruteforce the decryption key of the encrypted file, to avoid paying a ransom
 
 <a href="https://github.com/Matteobarcelona/AIG-Project/blob/main/aig-bruteforce-task2.py" target="_blank">Python script to bruteforce the decryption key of the encrypted file </a>
-https://github.com/Matteobarcelona/AIG-Project/blob/main/aig-bruteforce-task2.py
 
-How to design and implement the appropriate training for those teams to lower our risk of an attack:
-* Create a short presentation to help teams improve security awareness 
-Now that you've analyzed the results, it's time to create a short presentation (3-5 slides) providing some awareness and training materials for the two teams that appear to be most susceptible. This will help us improve the security awareness of the teams that performed poorly in this campaign.
-
-<a href="https://github.com/Matteobarcelona/Mastercard-Project/blob/main/phishing%20security%20awareness.pptx" target="_blank">Phishing Staff presentation</a>
 
 ## Skills:
 
@@ -59,6 +52,6 @@ Communication, data analysis, data presentation, design thinking, problem solvin
 
 ## Take away:
 
-I recently participated in Mastercard's job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to participate on a Security Awareness team at Mastercard.
-I worked on a project to identify phishing emails and design security awareness training courses. Through this job simulation, I built my skills in problem-solving, data analysis, and data presentation and practiced them in a real-world context.
-Doing this program confirmed that I really enjoy working in cybersecurity and I'm excited to apply these skills on a Security Awareness team at a company like Mastercard.
+I recently participated in AIG's job simulation on the Forage platform, gaining valuable insights into what it's like to be part of a cybersecurity team at AIG. 
+I worked on a project to create a cyber threat analysis simulation, delving into the possible vulnerabilities and how to fix them. I practiced using tools and languages relevant to cybersecurity such as Python, building my skills in a real-world context. 
+This experience confirmed my passion for addressing cybersecurity challenges, and I'm enthusiastic about applying these skills on AIG's cybersecurity team to contribute to solving real-world problems.
