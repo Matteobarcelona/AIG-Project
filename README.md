@@ -1,4 +1,5 @@
-# AIG-Project
+![image](https://github.com/user-attachments/assets/3b462695-9a91-4d8c-8b74-7f3f0ff11fe4)
+
 AIG Shields Up Cybersecurity
 
 ## Objective
