@@ -48,7 +48,7 @@ What ‘bruteforcing’ involves and how to respond to a ransomware virus using 
 
 ## Skills:
 
-Communication, data analysis, data presentation, design thinking, problem solving, security awareness training, technical security awareness. 
+Python, Research, Security Advisory, Vulnerability triage, Communication, Data analysis. 
 
 ## Take away:
 
