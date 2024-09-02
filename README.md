@@ -44,9 +44,8 @@ Next, analyze the “Infrastructure List” below to find out which infrastructu
 What ‘bruteforcing’ involves and how to respond to a ransomware virus using Python:
 * Write a Python script to bruteforce the decryption key of the encrypted file, to avoid paying a ransom
 
-In this task, I had to write a Python script to bruteforce the decryption key of the encrypted file.
-
-![image](https://github.com/user-attachments/assets/b3ffa56b-151d-42e7-9205-0271c04ff832)
+<a href="https://github.com/Matteobarcelona/AIG-Project/blob/main/aig-bruteforce-task2.py" target="_blank">Python script to bruteforce the decryption key of the encrypted file </a>
+https://github.com/Matteobarcelona/AIG-Project/blob/main/aig-bruteforce-task2.py
 
 How to design and implement the appropriate training for those teams to lower our risk of an attack:
 * Create a short presentation to help teams improve security awareness 
